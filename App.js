@@ -58,7 +58,7 @@ export default function App() {
           </View>
         </>}
         pullToRefreshEnabled={true}
-        source={{ uri: 'https://myplate.xyz/' }}
+        source={{ uri: 'https://www.myplate.xyz/' }}
         style={{ marginTop: 15 }}
         onLoadProgress={(event) => setCanGoBack(event.nativeEvent.canGoBack)}
         domStorageEnabled={true}
