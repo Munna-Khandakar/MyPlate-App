@@ -16,6 +16,11 @@
     "production": {
       "android": {
         "serviceAccountKeyPath": "../Downloads/815561695089-94dc90722cbe.json"
+      },
+      "ios":{
+        "appleId":"mdsatilislam@gmail.com",
+        "ascAppId":"1614144590",
+        "appleTeamId":"86SWS7J92W"
       }
     }
   }
